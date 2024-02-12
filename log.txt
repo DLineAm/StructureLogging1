@@ -1,0 +1,1111 @@
+2024-02-06 21:28:19.828 +03:00 [INF] Now listening on: https://localhost:7026
+2024-02-06 21:28:19.851 +03:00 [INF] Now listening on: http://localhost:5260
+2024-02-06 21:28:19.885 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-06 21:28:19.887 +03:00 [INF] Hosting environment: Development
+2024-02-06 21:28:19.887 +03:00 [INF] Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-06 21:28:20.594 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-06 21:28:20.821 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 230.9460ms
+2024-02-06 21:28:20.822 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-06 21:28:20.830 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 7.6770ms
+2024-02-06 21:28:20.846 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-06 21:28:20.892 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.3267ms
+2024-02-06 21:28:20.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-06 21:28:21.036 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 105.1380ms
+2024-02-06 21:33:44 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-06 21:33:44 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-06 21:33:44 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-06 21:33:44 [INF] 
+ Hosting environment: Development
+2024-02-06 21:33:44 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-06 21:33:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-06 21:33:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 263.7835ms
+2024-02-06 21:33:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-06 21:33:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.5017ms
+2024-02-06 21:33:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-06 21:33:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 56.2536ms
+2024-02-06 21:33:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-06 21:33:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 136.8068ms
+2024-02-06 21:33:50 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-06 21:33:50 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:33:50 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-06 21:33:50 [INF] 
+ Temp = -19 | Summary = Warm
+2024-02-06 21:33:51 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-06 21:33:51 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 18.7984ms
+2024-02-06 21:33:51 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:33:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 55.5768ms
+2024-02-06 21:36:21 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-06 21:36:21 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-06 21:36:21 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-06 21:36:21 [INF] 
+ Hosting environment: Development
+2024-02-06 21:36:21 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-06 21:36:23 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-06 21:36:23 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 239.8489ms
+2024-02-06 21:36:23 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-06 21:36:23 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.5183ms
+2024-02-06 21:36:23 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-06 21:36:23 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.7874ms
+2024-02-06 21:36:23 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-06 21:36:23 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 94.1688ms
+2024-02-06 21:36:27 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-06 21:36:27 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:36:27 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-06 21:36:27 [INF] 
+ Weather = { Temp = 27, Summary = Scorching }
+2024-02-06 21:36:27 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-06 21:36:27 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 15.8471ms
+2024-02-06 21:36:27 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:36:27 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 55.2689ms
+2024-02-06 21:38:33 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-06 21:38:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-06 21:38:52 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-06 21:38:52 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-06 21:38:52 [INF] 
+ Hosting environment: Development
+2024-02-06 21:38:52 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-06 21:38:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 15497.6661ms
+2024-02-06 21:38:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-06 21:38:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.0702ms
+2024-02-06 21:38:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-06 21:38:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.3501ms
+2024-02-06 21:38:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-06 21:38:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.2519ms
+2024-02-06 21:38:56 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-06 21:38:56 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:38:56 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-06 21:38:56 [INF] 
+ Weather = { Temp = 36, Summary = Freezing }
+2024-02-06 21:38:56 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-06 21:38:57 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 18.3232ms
+2024-02-06 21:38:57 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:38:57 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 65.9377ms
+2024-02-06 21:39:30 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-06 21:39:30 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-06 21:39:30 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-06 21:39:30 [INF] 
+ Hosting environment: Development
+2024-02-06 21:39:30 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-06 21:39:31 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-06 21:39:31 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 226.9270ms
+2024-02-06 21:39:31 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-06 21:39:31 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 7.2942ms
+2024-02-06 21:39:31 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-06 21:39:31 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.4234ms
+2024-02-06 21:39:31 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-06 21:39:31 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 97.6817ms
+2024-02-06 21:39:34 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-06 21:39:34 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:39:35 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-06 21:39:35 [INF] 
+ Temp = 32 | Summary = Bracing
+2024-02-06 21:39:35 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-06 21:39:35 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 20.1725ms
+2024-02-06 21:39:35 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-06 21:39:35 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 58.7728ms
+2024-02-11 13:02:38 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 13:02:38 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 13:02:38 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 13:02:38 [INF] 
+ Hosting environment: Development
+2024-02-11 13:02:38 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 13:02:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 13:02:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 231.7923ms
+2024-02-11 13:02:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 13:02:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 6.5176ms
+2024-02-11 13:02:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 13:02:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 242.8810ms
+2024-02-11 13:02:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 13:02:41 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 140.6309ms
+2024-02-11 13:04:39 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 13:04:39 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 13:04:39 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 13:04:39 [INF] 
+ Hosting environment: Development
+2024-02-11 13:04:39 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 13:04:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 13:04:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 201.7061ms
+2024-02-11 13:04:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 13:04:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.9718ms
+2024-02-11 13:04:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 13:04:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.2126ms
+2024-02-11 13:04:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 13:04:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 78.3374ms
+2024-02-11 13:05:50 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 13:05:50 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 13:05:50 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 13:05:50 [INF] 
+ Hosting environment: Development
+2024-02-11 13:05:50 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 13:05:51 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 13:05:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 144.5788ms
+2024-02-11 13:05:51 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 13:05:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 6.9016ms
+2024-02-11 13:05:51 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 13:05:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.3702ms
+2024-02-11 13:05:51 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 13:05:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 121.0185ms
+2024-02-11 13:05:54 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 13:05:54 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:05:54 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 13:05:54 [INF] 
+ Temp = 12 | Summary = Warm
+2024-02-11 13:05:54 [ERR] 
+ ABOBA
+2024-02-11 13:05:54 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 13:05:54 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 19.6377ms
+2024-02-11 13:05:54 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:05:54 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 62.6437ms
+2024-02-11 13:22:34 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 13:22:38 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 13:22:53 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 13:22:53 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 13:22:53 [INF] 
+ Hosting environment: Development
+2024-02-11 13:22:53 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 13:22:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 13:22:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 14984.8213ms
+2024-02-11 13:22:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 7.6535ms
+2024-02-11 13:22:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 13:22:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.1879ms
+2024-02-11 13:22:53 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 13:22:53 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 83.7828ms
+2024-02-11 13:23:42 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 13:23:42 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:23:42 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 13:23:42 [INF] 
+ Temp = 13 | Summary = Scorching
+2024-02-11 13:23:42 [ERR] 
+ ABOBA
+2024-02-11 13:23:42 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 13:23:42 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 18.0794ms
+2024-02-11 13:23:42 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:23:42 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 65.6885ms
+2024-02-11 13:25:18 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 13:25:18 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 13:25:18 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 13:25:18 [INF] 
+ Hosting environment: Development
+2024-02-11 13:25:18 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 13:25:20 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 13:25:20 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 151.8869ms
+2024-02-11 13:25:20 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 13:25:20 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 7.0065ms
+2024-02-11 13:25:20 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 13:25:20 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.6583ms
+2024-02-11 13:25:20 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 13:25:20 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.9923ms
+2024-02-11 13:25:29 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 13:25:29 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:25:30 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 13:25:30 [INF] 
+ Temp = -10 | Summary = Chilly
+2024-02-11 13:25:30 [ERR] 
+ ABOBA
+2024-02-11 13:25:30 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 13:25:30 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 17.8979ms
+2024-02-11 13:25:30 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 13:25:30 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 56.2314ms
+2024-02-11 14:04:28 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 14:04:28 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 14:04:28 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 14:04:28 [INF] 
+ Hosting environment: Development
+2024-02-11 14:04:28 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 14:04:29 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 14:04:29 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 211.0220ms
+2024-02-11 14:04:29 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 14:04:29 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 6.0347ms
+2024-02-11 14:04:29 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 14:04:29 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.2736ms
+2024-02-11 14:04:29 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 14:04:29 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 105.1895ms
+2024-02-11 14:04:47 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:04:47 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:04:47 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:04:47 [INF] 
+ Temp = 29 | Summary = Hot
+2024-02-11 14:04:47 [ERR] 
+ ABOBA
+2024-02-11 14:04:47 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 14:04:47 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 18.6961ms
+2024-02-11 14:04:47 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:04:47 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 56.4369ms
+2024-02-11 14:17:02 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 14:17:02 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 14:17:02 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 14:17:02 [INF] 
+ Hosting environment: Development
+2024-02-11 14:17:02 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 14:17:03 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 14:17:03 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 282.5165ms
+2024-02-11 14:17:03 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 14:17:03 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 4.7684ms
+2024-02-11 14:17:03 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 14:17:03 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.0340ms
+2024-02-11 14:17:03 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 14:17:03 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.0587ms
+2024-02-11 14:17:06 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:17:06 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:17:06 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:17:06 [INF] 
+ Temp = -18 | Summary = Freezing
+2024-02-11 14:17:06 [ERR] 
+ ABOBA
+2024-02-11 14:17:06 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 14:17:06 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 20.9036ms
+2024-02-11 14:17:06 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:17:06 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 61.9944ms
+2024-02-11 14:22:59 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:22:59 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:22:59 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:22:59 [INF] 
+ Temp = 48 | Summary = Sweltering
+2024-02-11 14:22:59 [ERR] 
+ ABOBA
+2024-02-11 14:22:59 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 14:22:59 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 4.2424ms
+2024-02-11 14:22:59 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:22:59 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 14.3522ms
+2024-02-11 14:29:43 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 14:29:43 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 14:29:43 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 14:29:43 [INF] 
+ Hosting environment: Development
+2024-02-11 14:29:43 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 14:29:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 14:29:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 162.1374ms
+2024-02-11 14:29:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 14:29:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 8.9949ms
+2024-02-11 14:29:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 14:29:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.6433ms
+2024-02-11 14:29:45 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 14:29:45 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.2562ms
+2024-02-11 14:30:09 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:30:09 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:30:09 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:30:09 [INF] 
+ Temp = 13 | Summary = Cool
+2024-02-11 14:30:09 [ERR] 
+ ABOBA
+2024-02-11 14:30:09 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 14:30:09 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 20.6358ms
+2024-02-11 14:30:09 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:30:09 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 62.8519ms
+2024-02-11 14:31:13 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:31:13 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:31:13 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:31:13 [INF] 
+ Temp = -13 | Summary = Sweltering
+2024-02-11 14:31:13 [ERR] 
+ ABOBA
+2024-02-11 14:31:13 [INF] 
+ Executing ObjectResult, writing value of type 'StructureLogging.WeatherForecast'.
+2024-02-11 14:31:13 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 3.2834ms
+2024-02-11 14:31:13 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:31:13 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 200 - application/json;+charset=utf-8 11.3864ms
+2024-02-11 14:31:52 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-11 14:31:53 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-11 14:31:53 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-11 14:31:53 [INF] 
+ Hosting environment: Development
+2024-02-11 14:31:53 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-11 14:31:54 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-11 14:31:54 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 174.3905ms
+2024-02-11 14:31:54 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-11 14:31:54 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 9.8108ms
+2024-02-11 14:31:54 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-11 14:31:54 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.5820ms
+2024-02-11 14:31:54 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-11 14:31:55 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.0350ms
+2024-02-11 14:31:57 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/WeatherForecast - -
+2024-02-11 14:31:57 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:31:57 [INF] 
+ Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature StructureLogging.WeatherForecast Get() on controller StructureLogging.Controllers.WeatherForecastController (StructureLogging).
+2024-02-11 14:31:57 [INF] 
+ Temp = 30 | Summary = Cool
+2024-02-11 14:31:57 [ERR] 
+ ABOBA
+2024-02-11 14:32:00 [INF] 
+ Executed action StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging) in 2092.3891ms
+2024-02-11 14:32:00 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.WeatherForecastController.Get (StructureLogging)'
+2024-02-11 14:32:00 [ERR] 
+ An unhandled exception has occurred while executing the request.
+System.Exception: TEst
+   at StructureLogging.Controllers.WeatherForecastController.Get() in C:\Users\pocht\Desktop\StructureLogging\Controllers\WeatherForecastController.cs:line 35
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-02-11 14:32:00 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/WeatherForecast - - - 500 - text/plain;+charset=utf-8 2446.3855ms
+2024-02-12 19:28:09 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-12 19:28:09 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-12 19:28:09 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-12 19:28:09 [INF] 
+ Hosting environment: Development
+2024-02-12 19:28:09 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-12 19:28:10 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-12 19:28:10 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 255.4752ms
+2024-02-12 19:28:10 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-12 19:28:10 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.9663ms
+2024-02-12 19:28:10 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-12 19:28:10 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.7973ms
+2024-02-12 19:28:10 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-12 19:28:11 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.1152ms
+2024-02-12 19:28:24 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=1 - -
+2024-02-12 19:28:24 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:28:24 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:28:24 [INF] 
+ Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[StructureLogging.Models.Device, StructureLogging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-02-12 19:28:24 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 54.6361ms
+2024-02-12 19:28:24 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:28:24 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=1 - - - 200 - application/json;+charset=utf-8 107.9260ms
+2024-02-12 19:29:05 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:29:10 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:29:10 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:29:10 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:29:10 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:29:10 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 5.2159ms
+2024-02-12 19:29:10 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:29:10 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 5251.0248ms
+2024-02-12 19:29:51 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:29:51 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:29:51 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:29:51 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:29:51 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:29:51 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.5568ms
+2024-02-12 19:29:51 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:29:51 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 15.1108ms
+2024-02-12 19:30:03 [INF] 
+ Now listening on: https://localhost:7026
+2024-02-12 19:30:03 [INF] 
+ Now listening on: http://localhost:5260
+2024-02-12 19:30:03 [INF] 
+ Application started. Press Ctrl+C to shut down.
+2024-02-12 19:30:03 [INF] 
+ Hosting environment: Development
+2024-02-12 19:30:03 [INF] 
+ Content root path: C:\Users\pocht\Desktop\StructureLogging\
+2024-02-12 19:30:04 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/index.html - -
+2024-02-12 19:30:04 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/index.html - - - 200 - text/html;charset=utf-8 157.1026ms
+2024-02-12 19:30:04 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - -
+2024-02-12 19:30:04 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 4.1814ms
+2024-02-12 19:30:04 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/_vs/browserLink - -
+2024-02-12 19:30:04 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 45.2327ms
+2024-02-12 19:30:04 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - -
+2024-02-12 19:30:04 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 113.3692ms
+2024-02-12 19:30:16 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:30:16 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:30:16 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:30:16 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:30:16 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:30:16 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 32.7451ms
+2024-02-12 19:30:16 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:30:16 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 83.6723ms
+2024-02-12 19:31:39 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:31:39 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:39 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:39 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:31:39 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:39 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.9404ms
+2024-02-12 19:31:39 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:39 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 19.8640ms
+2024-02-12 19:31:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:31:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:31:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.564ms
+2024-02-12 19:31:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.5299ms
+2024-02-12 19:31:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:31:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:31:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 1.9006ms
+2024-02-12 19:31:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.1382ms
+2024-02-12 19:31:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:31:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:31:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 1.9318ms
+2024-02-12 19:31:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.5402ms
+2024-02-12 19:31:42 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:42 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:42 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:42 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:42 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.8205ms
+2024-02-12 19:31:42 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 18.9261ms
+2024-02-12 19:31:42 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:42 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:42 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:42 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:42 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.104ms
+2024-02-12 19:31:42 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 9.3623ms
+2024-02-12 19:31:42 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:42 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:42 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:42 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:42 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 3.1006ms
+2024-02-12 19:31:42 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 9.7593ms
+2024-02-12 19:31:42 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:42 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:42 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:42 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:42 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 3.7441ms
+2024-02-12 19:31:42 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:42 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 10.1608ms
+2024-02-12 19:31:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:43 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.2399ms
+2024-02-12 19:31:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 8.4280ms
+2024-02-12 19:31:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:43 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.2043ms
+2024-02-12 19:31:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 8.6978ms
+2024-02-12 19:31:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:31:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:31:43 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:31:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:31:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 1.8158ms
+2024-02-12 19:31:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:31:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 10.4728ms
+2024-02-12 19:43:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:43:37 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:37 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:43:37 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:37 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.8696ms
+2024-02-12 19:43:37 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 39.1217ms
+2024-02-12 19:43:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:43:37 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:37 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:43:37 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:37 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 4.6301ms
+2024-02-12 19:43:37 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 16.7599ms
+2024-02-12 19:43:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:43:37 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:37 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:43:37 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:37 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 1.9359ms
+2024-02-12 19:43:37 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 9.7143ms
+2024-02-12 19:43:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:43:37 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:37 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:43:37 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:37 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.0362ms
+2024-02-12 19:43:37 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 9.2666ms
+2024-02-12 19:43:37 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=3 - -
+2024-02-12 19:43:37 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:37 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:37 [WRN] 
+ Attempt to get devices with Type = "MainAndAdditional"
+2024-02-12 19:43:37 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:37 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.549ms
+2024-02-12 19:43:37 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:38 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=3 - - - 404 - application/problem+json;+charset=utf-8 11.4033ms
+2024-02-12 19:43:39 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:43:39 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:39 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:39 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:43:39 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:39 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.7677ms
+2024-02-12 19:43:39 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:39 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 10.5219ms
+2024-02-12 19:43:39 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:43:39 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:39 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:39 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:43:39 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:39 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.0907ms
+2024-02-12 19:43:39 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:39 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 8.3944ms
+2024-02-12 19:43:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:43:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:43:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 1.9957ms
+2024-02-12 19:43:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 10.3328ms
+2024-02-12 19:43:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:43:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:43:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.1636ms
+2024-02-12 19:43:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.9712ms
+2024-02-12 19:43:40 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:43:40 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:43:40 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:43:40 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:43:40 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 3.9135ms
+2024-02-12 19:43:40 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:43:40 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.6292ms
+2024-02-12 19:45:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:45:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:45:43 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:45:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:45:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.0147ms
+2024-02-12 19:45:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 11.1908ms
+2024-02-12 19:45:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:45:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:45:43 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:45:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:45:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.1313ms
+2024-02-12 19:45:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.6809ms
+2024-02-12 19:45:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:45:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:45:43 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:45:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:45:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.5025ms
+2024-02-12 19:45:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 9.7055ms
+2024-02-12 19:45:43 [INF] 
+ Request starting HTTP/2 GET https://localhost:7026/Device?deviceType=0 - -
+2024-02-12 19:45:43 [INF] 
+ Executing endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Route matched with {action = "Get", controller = "Device"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[StructureLogging.Models.Device]] Get(StructureLogging.Models.DeviceTypes) on controller StructureLogging.Controllers.DeviceController (StructureLogging).
+2024-02-12 19:45:43 [WRN] 
+ Attempt to get devices with Type = "None"
+2024-02-12 19:45:43 [INF] 
+ Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2024-02-12 19:45:43 [INF] 
+ Executed action StructureLogging.Controllers.DeviceController.Get (StructureLogging) in 2.2925ms
+2024-02-12 19:45:43 [INF] 
+ Executed endpoint 'StructureLogging.Controllers.DeviceController.Get (StructureLogging)'
+2024-02-12 19:45:43 [INF] 
+ Request finished HTTP/2 GET https://localhost:7026/Device?deviceType=0 - - - 404 - application/problem+json;+charset=utf-8 8.4561ms
